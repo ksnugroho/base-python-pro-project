@@ -36,4 +36,4 @@ async def cek_gambar(ctx):
     else:
         await ctx.send("Anda lupa mengunggah gambar :(")
 
-bot.run("MTI2NjYwMDI4OTk3MzMwNTM4NQ.GhZZhH.nx0suv2puE7_Tnpx7LMN_UVfer38UwSAVyV7gU")
+bot.run("TOKEN")
